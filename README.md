@@ -42,7 +42,9 @@ This prototype was generated from Figma design data using the Figma API and MCP 
 
 ## Live Demo
 
-[Add GitHub Pages URL here after deployment]
+🚀 **Repository:** https://github.com/shinytoyrobots/customer-feedback-prototype
+
+📱 **Live Demo:** Enable GitHub Pages in repository settings to get live URL
 
 ---
 
