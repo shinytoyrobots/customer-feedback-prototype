@@ -49,3 +49,4 @@ This prototype was generated from Figma design data using the Figma API and MCP 
 ---
 
 Built with ❤️ for better product management workflows.
+
